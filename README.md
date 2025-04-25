@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/8b93c27c-1e9f-43c9-864d-1a0e0f0cfc56.svg)](https://wakatime.com/@8b93c27c-1e9f-43c9-864d-1a0e0f0cfc56)
+
 <!--
 **hamza-a1ee/hamza-a1ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
